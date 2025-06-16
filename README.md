@@ -26,7 +26,7 @@ Each item has a unique **serial number** based on the current length of the list
 
 ---
 
-## 📸 Live website
+##  Live website
 
 https://listifyy-ten.vercel.app/
 
